@@ -22,7 +22,7 @@ hi NonText guifg=fg
 hi clear VertSplit
 hi LineNr gui=italic guifg=gray
 hi Pmenu guibg=LightYellow
-hi PmenuSel guibg=Yellow1
+hi PmenuSel guibg=LightGoldenrod1
 hi Todo guifg=fg guibg=PaleGreen
 hi Visual guifg=bg guibg=#dd5555
 hi Cursor guibg=#dd5555
