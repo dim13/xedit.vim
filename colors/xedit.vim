@@ -27,5 +27,6 @@ hi Todo guifg=fg guibg=PaleGreen
 hi Visual guifg=bg guibg=#dd5555
 hi Cursor guibg=#dd5555
 hi Identifier guifg=RoyalBlue4
+hi Title guifg=gray12
 
 let colors_name = "xedit"
