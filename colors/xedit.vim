@@ -1,6 +1,6 @@
 " Vim color file
 
-set bg&
+set bg=light
 hi clear
 
 if exists("syntax_on")
