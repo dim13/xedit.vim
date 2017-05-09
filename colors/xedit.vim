@@ -15,7 +15,6 @@ hi Comment gui=italic guifg=SlateBlue3
 hi PreProc guifg=green4
 hi Type guifg=fg
 hi Special gui=bold guifg=RoyalBlue2
-hi Statement guifg=fg
 hi Directory guifg=RoyalBlue4
 hi NonText guifg=fg
 hi LineNr gui=italic guifg=gray
