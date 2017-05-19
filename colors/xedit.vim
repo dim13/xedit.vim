@@ -24,6 +24,7 @@ hi Todo guifg=fg guibg=PaleGreen
 hi Visual guifg=bg guibg=IndianRed3
 hi Cursor guibg=IndianRed3
 hi Identifier guifg=RoyalBlue4
+hi Search guibg=LightYellow
 hi Title guifg=gray12
 hi clear VertSplit
 hi clear Normal
