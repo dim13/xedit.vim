@@ -8,7 +8,7 @@ if exists("syntax_on")
 endif
 
 hi Statement guifg=gray12
-hi Number guifg=OrangeRed3
+hi Number gui=bold guifg=OrangeRed3
 hi String guifg=RoyalBlue2
 hi Constant guifg=VioletRed3
 hi Comment gui=italic guifg=SlateBlue3
