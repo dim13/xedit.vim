@@ -28,5 +28,7 @@ hi Search guibg=LightYellow
 hi Title guifg=gray12
 hi clear VertSplit
 hi clear Normal
+hi StatusLine guifg=RoyalBlue4
+hi StatusLineNC guifg=gray12
 
 let colors_name = "xedit"
