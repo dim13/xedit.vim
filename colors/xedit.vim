@@ -1,11 +1,13 @@
 " Vim color file
 
-set bg=light
 hi clear
-
 if exists("syntax_on")
   syntax reset
 endif
+
+set background=light
+
+let g:colors_name="xedit"
 
 hi Statement guifg=gray12
 hi Number gui=bold guifg=OrangeRed3
@@ -30,5 +32,3 @@ hi clear VertSplit
 hi clear Normal
 hi StatusLine guifg=RoyalBlue4
 hi StatusLineNC guifg=gray40
-
-let colors_name = "xedit"
