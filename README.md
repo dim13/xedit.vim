@@ -2,4 +2,4 @@
 
 XEdit like color theme vor VIM
 
-![preview](https://github.com/dim13/xedit.vim/blob/master/xedit.png)
+![preview](https://raw.githubusercontent.com/dim13/xedit.vim/master/xedit.png)
