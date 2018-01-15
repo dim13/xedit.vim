@@ -12,7 +12,7 @@ let g:colors_name="xedit"
 hi Statement guifg=gray12
 hi Number gui=bold guifg=OrangeRed3
 hi String guifg=RoyalBlue2
-hi Constant guifg=VioletRed3
+hi Constant gui=italic guifg=VioletRed3
 hi Comment gui=italic guifg=SlateBlue3
 hi PreProc guifg=green4
 hi Type guifg=fg
