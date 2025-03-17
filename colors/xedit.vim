@@ -36,3 +36,4 @@ hi SpellBad	gui=undercurl
 hi SpellCap	gui=undercurl
 hi SpellRare	gui=undercurl
 hi SpellLocal	gui=undercurl
+hi ColorColumn						guibg=LightYellow
