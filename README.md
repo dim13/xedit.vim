@@ -1,5 +1,5 @@
-# xedit.vim
+# XEdit
 
-XEdit like color theme vor VIM
+Vim color scheme resembling colors of X11 Xedit
 
 ![preview](xedit.png)
