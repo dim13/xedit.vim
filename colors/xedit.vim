@@ -9,8 +9,8 @@ set background=light
 
 let g:colors_name="xedit"
 
-hi clear Normal
-hi clear VertSplit
+hi Normal			guifg=black		guibg=white
+hi VertSplit	gui=none
 hi Statement	gui=bold	guifg=gray12
 hi Number	gui=bold	guifg=OrangeRed3
 hi String			guifg=RoyalBlue2
